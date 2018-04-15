@@ -1,0 +1,16 @@
+/*reset*/
+	.left{
+		float: left;
+	}
+	.right{
+		float: right;
+	}
+	.clearfix{
+		display: block;
+		clear: both;
+		content: "";
+	}
+	.clearfix:after{
+		zoom:1;
+	}
+
